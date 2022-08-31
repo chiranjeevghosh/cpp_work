@@ -1,1 +1,1 @@
-# cpp_work
+C++ programs written for the purpose of practice
